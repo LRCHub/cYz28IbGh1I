@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "harha - 恋はずみ(Music Video)",
+  "base_artist": "harha",
+  "createdAt": "2025-12-18T07:37:10.988334Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Harha",
+      "artist": "Merta",
+      "has_synced": true,
+      "path": "select/01_Harha_Merta.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Harha",
+      "artist": "Jesse Kaikuranta",
+      "has_synced": false,
+      "path": "select/02_Harha_Jesse_Kaikuranta.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Optinen harha (feat. Ellips)",
+      "artist": "Pyhimys",
+      "has_synced": true,
+      "path": "select/03_Optinen_harha_(feat._Ellips)_Pyhimys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kuumien käsien harha",
+      "artist": "Are",
+      "has_synced": true,
+      "path": "select/04_Kuumien_käsien_harha_Are.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋はずみ",
+      "artist": "harha",
+      "has_synced": false,
+      "path": "select/pl_01_恋はずみ_harha.txt"
+    }
+  ]
+}
